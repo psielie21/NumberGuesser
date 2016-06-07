@@ -1,2 +1,4 @@
 # NumberGuesser
-Only within a few questions this program is possible to guess the number you are thinking of, with byte logic.
+This program is written in Python and relies on a simple mathmatical trick: every integer <= n can be expressed by the sum of powers of 2 <= n. What this means in reality is that it can guess a random number from 1 until 100 within only 7 questions. 100 % accurate!
+Some people might argue that this is only a simple, trivial and already discovered trick, they might be right. But this is also one of the principles why computers can even work. Only because every integer can be expressed with bytes, HIGH and LOW, on or off, is it even possible that information technology could spread in the first place. It is ironic, but this principle demostrated in this program is necessary that the program is even able to be executed in the first place.
+I am very well aware that this is my first project on GitHub and also my first project with Python, ever. So please consider this when criticizing me, thank you!
