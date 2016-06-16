@@ -64,4 +64,4 @@ print("Think of a number between 1 and "+ str(limit) +"\n");
 for bi in binaries:
     counter = prompt(bi,counter);
 
-print("Your number is: " + st
+print("Your number is: " + st);
