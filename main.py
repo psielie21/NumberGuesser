@@ -1,3 +1,4 @@
+import string;
 limit = 100; #change limit to whatever is necessary
 binaries = [];
 
