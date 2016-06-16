@@ -50,7 +50,7 @@ def printCard(x):
 def prompt(number, c):
     print("Is your number one of those (y/n) ?");
     printCard(generateCards(number));
-    input1 = input();
+    input1 = str(input());
 
     if input1 == "y":
         c = c + number;
